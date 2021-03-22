@@ -1,0 +1,24 @@
+<html>
+<header>
+Hello 
+</header>
+<body>
+<h1 style="text-align:center;">Please Enter The Login Credentials</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+
+                   <h1 style="background-color:powderblue;">Please Enter The Login Credentials</h1>
+                   <label>user name</label>
+                   <input type = "text" name = "User Name "/> </br> 
+                   <label>password</label>
+                   <input type = "text" name = "Pass word "/> </br> 
+                  </br>
+
+<button type="submit" class=" btn sign-up-btn-2 btn-block">Signup for Free</button>
+                               
+<a href="https://www.google.co.in//" />Submit</a>
+
+</body>
+</html>
+
+
+
